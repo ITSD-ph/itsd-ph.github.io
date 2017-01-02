@@ -115,7 +115,7 @@
           },
           "title": "ITSD",
           "text": "ONE STOP SHOP FOR ALL YOUR IT NEEDS<br>Please pick one to proceed",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"IT_support.html\" data-toolbar=\"-mbrBtnMove\">IT SUPPORT AND SOLUTIONS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"REPAIR.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;PC LAPTOP MOBILE REPAIR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CALL US 012345678 ( 24/7 )</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"IT_support.html\" data-toolbar=\"-mbrBtnMove\">IT SUPPORT AND SOLUTIONS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"REPAIR.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;PC LAPTOP MOBILE REPAIR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">CALL US 012345678 ( 24/7 )</a>"
         },
         {
           "_tags": [
