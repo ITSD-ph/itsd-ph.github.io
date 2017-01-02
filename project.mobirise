@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 17,
+    "uniqCompNum": 19,
     "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": ""
@@ -115,7 +115,7 @@
           },
           "title": "ITSD",
           "text": "ONE STOP SHOP FOR ALL YOUR IT NEEDS<br>Please pick one to proceed",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"IT_support.html\" data-toolbar=\"-mbrBtnMove\">IT SUPPORT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PC LAPTOP MOBILE REPAIR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CALL US 052266555 ( 24/7 )</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"IT_support.html\" data-toolbar=\"-mbrBtnMove\">IT SUPPORT AND SOLUTIONS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"REPAIR.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;PC LAPTOP MOBILE REPAIR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CALL US 052266555 ( 24/7 )</a>"
         },
         {
           "_tags": [
@@ -135,7 +135,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "FREE TRAINING FOR ALL DESERVING OUT OF SCHOOL YOUTH"
+          "meta": "FREE BASIC TO ADVANCE COMPUTER TRAINING FOR ALL DESERVING OUT OF SCHOOL YOUTH"
         },
         {
           "_tags": [
@@ -346,7 +346,7 @@
             }
           },
           "_anchor": "content1-g",
-          "text": "<p>IT SUPPPORT</p><p> We provided IT solutions for small to medium business including 24/7 deskside support , data backup and system upgrade</p>"
+          "text": "<p>IT SUPPPORT</p><p> We provided IT solutions for small to midsize business including 24/7 deskside support. To act as your in-house IT personnel, provide data backup and system upgrade as well tailored to your office needs. No need for costly and permanent IT support. Switch to on-demand tech-help and pay per task. We also provide remote desktop support session for issues related to apps/programs etc.</p>"
         },
         {
           "_tags": [
@@ -354,6 +354,80 @@
           ],
           "_name": "form1",
           "_anchor": "form1-f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORM",
+          "form": {
+            "action": "alpon70@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "REPAIR.html": {
+      "settings": {
+        "title": "PC LAPTOP MOBILE REPAIR",
+        "meta_descr": "REPAIR",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-h",
+          "text": "<p>DEVICE REPAIRS</p><p>Whether it’s a broken screen or a Desktop PC infected with virus, non-responding mobile devices, just give us a call and will be at your doorstep in no time ready to make your precious tech device back to it's original form. We can guarantee your confidentiality from start to finish.</p><p>*see our terms of use</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-i",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
