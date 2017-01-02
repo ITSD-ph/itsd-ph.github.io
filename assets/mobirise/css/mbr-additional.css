@@ -4,6 +4,9 @@
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #00a885;
 }
+#menu-0 .mbr-navbar__section {
+  background: #00a885;
+}
 #menu-0 .mbr-navbar__hamburger {
   color: #553982;
 }

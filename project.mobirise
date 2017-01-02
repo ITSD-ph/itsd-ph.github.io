@@ -32,7 +32,9 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#00a885"
             },
-            ".mbr-navbar__section": {},
+            ".mbr-navbar__section": {
+              "background": "#00a885"
+            },
             ".mbr-navbar__hamburger": {
               "color": "#553982"
             },
@@ -48,7 +50,7 @@
           "_params": {
             "color": "#00a885",
             "hamburgerColor": "#553982",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "collapsed": false,
             "logo": true,
