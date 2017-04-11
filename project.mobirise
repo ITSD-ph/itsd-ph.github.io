@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-01_1732",
-    "currentPage": "index.html",
+    "currentPage": "IT_support.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -366,7 +366,7 @@
             }
           },
           "_anchor": "content1-g",
-          "text": "<p>IT SUPPPORT</p><p> We provide IT solutions for small to midsize business including 24/7 deskside support. To act as your in-house IT personnel, provide data backup and system upgrade as well tailored to your office needs. No need for costly and permanent IT support. Switch to on-demand tech-help and pay per task. We also provide remote desktop support session for issues related to apps/programs etc.</p>"
+          "text": "<p>IT SUPPPORT</p><p> We provide IT solutions for small to midsize business including 24/7 deskside support. To act as your in-house IT personnel, provide data backup and system upgrade as well, tailored to your office needs. No need for costly and permanent IT support. Switch to on-demand tech-help and pay per task. We also provide remote desktop support session for issues related to apps/programs etc.</p>"
         },
         {
           "_tags": [
